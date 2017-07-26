@@ -1,0 +1,54 @@
+body {
+	width: 100% !important;
+}
+
+#wrapper {
+	padding: 0 !important;
+}
+
+.print {
+	display: none !important;
+}
+
+table {
+	
+}
+tr{
+    
+}
+td{
+    vertical-align: middle!important;
+}
+.pagebreak {
+	page-break-before: always;
+}
+
+.no-page-break {
+	page-break-after: avoid;
+}
+
+h1{
+    font-size: 1.8em;
+    line-height: 1.8em;
+    font-weight: bold!important;
+}
+
+h2{
+    font-size: 1.6em;
+    line-height: 1.6em;
+    padding: 0 0 80px 0!important;
+}
+
+h3{
+    line-height: 1.2em;
+    font-size: 1.2em;
+    font-weight: bold!important;
+}
+
+.product thead tr{
+    background: #cfcfcf;
+}
+
+.product tr.color{
+    background: #efefef;
+}

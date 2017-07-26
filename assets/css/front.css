@@ -1,0 +1,26 @@
+.inspire_checkout_fields_hide{
+    display: none;
+}
+
+.woocommerce-account input.button[name="save_address"]{
+    display: block!important;
+    clear: both;
+}
+
+.woocommerce-checkout .checkout .form-left{
+    float: left!important;
+    clear: left;
+}
+
+.woocommerce-checkout .checkout .form-right{
+    float: right!important;
+}
+
+.woocommerce-account .woocommerce .form-left{
+    float: left!important;
+    clear: left;
+}
+
+.woocommerce-account .woocommerce .form-right{
+    float: right!important;
+}

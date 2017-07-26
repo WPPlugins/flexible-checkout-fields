@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Desk Tracker\n"
+"POT-Creation-Date: 2017-05-29 16:08+0200\n"
+"PO-Revision-Date: 2017-05-29 16:08+0200\n"
+"Last-Translator: Piotr Jabłonowski <piotr.jablonowski@wpdesk.net>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: wpdesk-logger.php\n"
+
+#: wpdesk-tracker/views/tracker-connect.php:7
+#: wpdesk-tracker/views/tracker-notice.php:5
+#: wpdesk-tracker/views/tracker-notice.php:16
+#, php-format
+msgid "Hey %s,"
+msgstr "Hej %s,"
+
+#: wpdesk-tracker/views/tracker-connect.php:8
+#: wpdesk-tracker/views/tracker-notice.php:17
+msgid ""
+"Please help us improve our plugins! If you opt-in, we will collect some non-"
+"sensitive data and usage information. If you skip this, that's okay! All "
+"plugins will work just fine."
+msgstr ""
+"Proszę pomóż nam udoskonalić nasze wtyczki! Jeśli się zgodzisz, będziemy "
+"zbierać niewrażliwe dane użytkowania. Jeśli pominiesz ten krok, w porządku! "
+"Wszystkie wtyczki będą działać."
+
+#: wpdesk-tracker/views/tracker-connect.php:13
+msgid "Allow & Continue &rarr;"
+msgstr "Pozwól i kontunuuj &rarr;"
+
+#: wpdesk-tracker/views/tracker-connect.php:14
+msgid "Skip"
+msgstr "Pomiń"
+
+#: wpdesk-tracker/views/tracker-connect.php:19
+msgid "What permissions are being granted?"
+msgstr "Jakie uprawnienia są przyznawane?"
+
+#: wpdesk-tracker/views/tracker-connect.php:26
+msgid "Your Site Overview"
+msgstr "Dane witryny"
+
+#: wpdesk-tracker/views/tracker-connect.php:27
+msgid "Site URL, WP version, PHP info, admin email"
+msgstr "URL strony, wersja WP, wersja PHP, email admina"
+
+#: wpdesk-tracker/views/tracker-connect.php:33
+msgid "Plugin Usage"
+msgstr "Dane użytkowania wtyczek"
+
+#: wpdesk-tracker/views/tracker-connect.php:34
+msgid "Current settings and usage information of WP Desk plugins"
+msgstr "Ustawienia i informacje o użytkowaniu wtyczek WP Desk"
+
+#: wpdesk-tracker/views/tracker-connect.php:40
+msgid "Your Store Overview"
+msgstr "Dane sklepu"
+
+#: wpdesk-tracker/views/tracker-connect.php:41
+msgid "Non-sensitive store usage information"
+msgstr "Tylko niewrażliwe dane o użytkowaniu sklepu"
+
+#: wpdesk-tracker/views/tracker-connect.php:47
+msgid "Admin Updates"
+msgstr "Powiadomienia"
+
+#: wpdesk-tracker/views/tracker-connect.php:48
+msgid "Announcements, updates, marketing, no spam and easy opt-out"
+msgstr ""
+"Ważne powiadomienia, uaktualnienia, marketing, żadnego spamu i łatwa "
+"rezygnacja"
+
+#: wpdesk-tracker/views/tracker-connect.php:54
+#: wpdesk-tracker/views/tracker-notice.php:7
+#: wpdesk-tracker/views/tracker-notice.php:18
+msgid "Find out more &raquo;"
+msgstr "Dowiedz się więcej &raquo;"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:3
+#, php-format
+msgid "You are deactivating %s plugin."
+msgstr "Dezaktywowałeś wtyczkę %s."
+
+#: wpdesk-tracker/views/tracker-deactivate.php:9
+msgid ""
+" If you have a moment, please let us know why you are deactivating plugin "
+"(anonymous feedback):"
+msgstr ""
+"Jeśli masz chwilę, prosimy daj nam znać dlaczego dezaktywowałeś wtyczkę "
+"(anonimowa opinia):"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:16
+msgid "The plugin suddenly stopped working"
+msgstr "Wtyczka nagle przestała działać"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:24
+msgid "The plugin broke my site"
+msgstr "Wtyczka zepsuła moją stronę"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:32
+msgid "I found a better plugin"
+msgstr "Znalazłem lepszą wtyczkę"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:35
+msgid "What's the plugin's name?"
+msgstr "Jaka jest nazwa wtyczki?"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:43
+msgid "I only needed the plugin for a short period"
+msgstr "Potrzebowałem wtyczki tylko przez krótki okres"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:51
+msgid "I no longer need the plugin"
+msgstr "Nie potrzebuję już wtyczki"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:59
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Jest to tymczasowa dezaktywacja, debaguję problem"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:67
+msgid "Other"
+msgstr "Inny"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:70
+msgid "Kindly tell us the reason so we can improve"
+msgstr "Napisz nam powód abyśmy mogli go poprawić"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:77
+msgid "Skip &amp; Deactivate"
+msgstr "Pomiń i dezaktywuj"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:78
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: wpdesk-tracker/views/tracker-deactivate.php:92
+msgid "Submit &amp; Deactivate"
+msgstr "Wyślij i dezaktywuj"
+
+#: wpdesk-tracker/views/tracker-notice.php:6
+msgid ""
+"Allow WP Desk to collect plugin usage information and <strong>get discount "
+"coupon</strong> in our shop. No sensitive data is tracked."
+msgstr ""
+"Pozwól WP Desk na zbieranie danych użytkowania wtyczek i <strong>otrzymaj "
+"kupon rabatowy</strong> do naszego sklepu. Żadne wrażliwe dane nie będą "
+"zbierane."
+
+#: wpdesk-tracker/views/tracker-notice.php:10
+#: wpdesk-tracker/views/tracker-notice.php:21
+msgid "Allow"
+msgstr "Pozwól"
+
+#: wpdesk-tracker/views/tracker-opt-out-notice.php:3
+msgid ""
+"You successfully opted out of collecting usage data by WP Desk. If you "
+"change your mind, you can always opt in later in the plugin's quick links."
+msgstr ""
+"Twoja rezygnacja ze zbierania danych użytkowania wtyczek przez WP Desk "
+"została przyjęta. Jeśli zmienisz zdanie, zawsze możesz włączyć zgodę poprzez "
+"szybkie linki w menu wtyczek."
+
+#~ msgid "Error"
+#~ msgstr "Błąd"
+
+#~ msgid "Debug"
+#~ msgstr "Debug"
+
+#~ msgid "Save Changes"
+#~ msgstr "Zapisz zmiany"
+
+#~ msgid "API License Activation"
+#~ msgstr "Aktywacja licencji"
+
+#~ msgid "API License Key Status"
+#~ msgstr "Status licencji"
+
+#~ msgid "API License Key"
+#~ msgstr "Klucz licencyjny"
+
+#~ msgid "API License email"
+#~ msgstr "E-mail dla licencji"
+
+#~ msgid "API License Deactivation"
+#~ msgstr "Dezaktywacja licencji"
+
+#~ msgid "Deactivate API License Key"
+#~ msgstr "Dezaktywuj klucz licencyjny"
+
+#~ msgid "Plugin activated. "
+#~ msgstr "Wtyczka została włączona."
+
+#~ msgid "Connection failed to the License Key API server. Try again later."
+#~ msgstr "Nie udało się połączyć z serwerem licencji. Spróbuj później."
+
+#~ msgid ""
+#~ "The license could not be deactivated. Use the License Deactivation tab to "
+#~ "manually deactivate the license before activating a new license."
+#~ msgstr ""
+#~ "Licencja nie może być dezaktywowana. Użyj ręcznej dezaktywacji licencji "
+#~ "przed aktywacją nowej licencji."
+
+#~ msgid "Plugin license deactivated. "
+#~ msgstr "Licencja wtyczki dezaktywowana."
+
+#~ msgid "Deactivates an API License Key so it can be used on another blog."
+#~ msgstr ""
+#~ "Dezaktywuje klucz licencyjny, dzięki czemu może być użyty na innej "
+#~ "stronie."
+
+#~ msgid "License Activation"
+#~ msgstr "Aktywacja licencji"
+
+#~ msgid "License Deactivation"
+#~ msgstr "Dezaktywacja licencji"
+
+#~ msgid ""
+#~ "The %s%s%s License Key has not been activated, so the plugin is inactive! "
+#~ "%sClick here%s to activate the license key and the plugin."
+#~ msgstr ""
+#~ "Klucz licencyjny wtyczki %s%s%s nie został aktywowany, więc wtyczka jest "
+#~ "nieaktywna! %sKliknij tutaj%s, aby aktywować klucz licencyjny wtyczki."
+
+#~ msgid ""
+#~ "<b>Warning!</b> You're blocking external requests which means you won't "
+#~ "be able to get %s updates. Please add %s to %s."
+#~ msgstr ""
+#~ "<b>Uwaga!</b> Blokujesz zewnętrzne połączenia i nie będziesz otrzymywać "
+#~ "aktualizacji wtyczki: %s. Proszę dodaj host %s do %s."
+
+#~ msgid ""
+#~ "The license key for %s has expired. You can reactivate or purchase a "
+#~ "license key from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+#~ "a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s wygasła. Aby odnowić licencję, <a href=\"%s\" "
+#~ "target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s is on-hold. You can reactivate the subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s jest wstrzymana. Możesz zarządzać licencjami <a "
+#~ "href=\"%s\" target=\"_blank\">tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s has been cancelled. You can renew the "
+#~ "subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>. A new license key will be emailed to you after your "
+#~ "order has been completed."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s została anulowana. Aby odnowić licencję, <a href="
+#~ "\"%s\" target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s has expired. You can reactivate the subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s wygasła. Aby odnowić licencję, <a href=\"%s\" "
+#~ "target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s has been suspended. You can reactivate the "
+#~ "subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s została zawieszona. Aby odnowić licencję, <a href="
+#~ "\"%s\" target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s is still pending. You can check on the status of "
+#~ "the subscription from your account <a href=\"%s\" target=\"_blank"
+#~ "\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s jest przetwarzana. Aby sprawdzić status licencji, "
+#~ "<a href=\"%s\" target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "The subscription for %s has been placed in the trash and will be deleted "
+#~ "soon. You can purchase a new subscription from your account <a href=\"%s"
+#~ "\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s została anulowana. Aby odnowić licencję, <a href="
+#~ "\"%s\" target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "A subscription for %s could not be found. You can purchase a subscription "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s nie została znaleziona. Możesz zarządzać "
+#~ "licencjami <a href=\"%s\" target=\"_blank\">tutaj</a>."
+
+#~ msgid ""
+#~ "A license key for %s could not be found. Maybe you forgot to enter a "
+#~ "license key when setting up %s, or the key was deactivated in your "
+#~ "account. You can reactivate or purchase a license key from your account "
+#~ "<a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s nie została znaleziona. Być może zapomniałeś "
+#~ "wpisać klucza licencyjnego przy aktywacji: %s lub klucz został "
+#~ "dezaktywowany. Możesz zarządzać licencjami <a href=\"%s\" target=\"_blank"
+#~ "\">tutaj</a>."
+
+#~ msgid ""
+#~ "Download permission for %s has been revoked possibly due to a license key "
+#~ "or subscription expiring. You can reactivate or purchase a license key "
+#~ "from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Możliwość pobrania wtyczki: %s została zablokowana. Aby odnowić licencję, "
+#~ "<a href=\"%s\" target=\"_blank\">kliknij tutaj</a>."
+
+#~ msgid ""
+#~ "%s has not been activated. Go to the settings page and enter the license "
+#~ "key and license email to activate %s."
+#~ msgstr ""
+#~ "Wtyczka %s nie została aktywowana. Przejdź do ustawień i wpisz klucz "
+#~ "licencyjny i e-mail, aby aktywować %s."
+
+#~ msgid ""
+#~ "You changed the subscription for %s, so you will need to enter your new "
+#~ "API License Key in the settings page. The License Key should have arrived "
+#~ "in your email inbox, if not you can get it by logging into your account "
+#~ "<a href=\"%s\" target=\"_blank\">dashboard</a>."
+#~ msgstr ""
+#~ "Licencja na wtyczkę: %s została zmieniona. Możesz zarządzać licencjami <a "
+#~ "href=\"%s\" target=\"_blank\">tutaj</a>."
+
+#~ msgid "No WP Desk plugins found."
+#~ msgstr "Nie znaleziono wtyczek WP Desk."
+
+#~ msgid "License Status"
+#~ msgstr "Status licencji"
+
+#~ msgid "License Data"
+#~ msgstr "Dane licencji"
+
+#~ msgid "Deactivated"
+#~ msgstr "Nieaktywna"
+
+#~ msgid "Activated"
+#~ msgstr "Aktywna"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Wystąpił nieoczekiwany błąd HTTP podczas zapytania API.</p> <p><a href=\"?"
+#~ "\" onclick=\"document.location.reload(); return false;\">Spróbuj "
+#~ "ponownie</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Wystąpił nieznany błąd"
+
+#~ msgid "Ustawienia"
+#~ msgstr "Ustawienia"
+
+#~ msgid "Dokumentacja"
+#~ msgstr "Dokumentacja"
+
+#~ msgid "Wsparcie"
+#~ msgstr "Wsparcie"
+
+#~ msgid "Settings"
+#~ msgstr "Ustawienia"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentacja"
+
+#~ msgid "Support"
+#~ msgstr "Wsparcie"
+
+#~ msgid "Licenses"
+#~ msgstr "Licencje"
+
+#~ msgid "WP Desk Debug Log"
+#~ msgstr "WP Desk Debug Log"
+
+#~ msgid "Enable"
+#~ msgstr "Włącz"
+
+#~ msgid "Writes error log to %s."
+#~ msgstr "Zapisuje log błędów do %s."
+
+#~ msgid "WP Desk Helper Settings"
+#~ msgstr "Ustawienia WP Desk Helper"
+
+#~ msgid ""
+#~ "Can not enable WP Desk Debug log! Cannot create directory %s or this "
+#~ "directory is not writeable!"
+#~ msgstr ""
+#~ "Nie można włączyć WP Desk Debug log! Nie można utworzyć katalogu %s lub "
+#~ "brak uprawnień do zapisu w tym katalogu!"
+
+#~ msgid "WP Desk Debug Log is enabled. %sPlease disable it after testing%s."
+#~ msgstr "WP Desk Debug Log jest włączony. %sWyłącz go po testach%s."
+
+#~ msgid "Key:"
+#~ msgstr "Klucz:"
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Activate"
+#~ msgstr "Aktywuj"
+
+#~ msgid "WP Desk Licenses"
+#~ msgstr "Licencje WP Desk"
+
+#~ msgid "Get your license keys <a href=\"%s\" target=\"_blank\">here</a>."
+#~ msgstr ""
+#~ "Pobierz klucze licencyjne do aktywacji wtyczek <a href=\"%s\" target="
+#~ "\"_blank\">tutaj</a>."
+
+#~ msgid "Refresh"
+#~ msgstr "Odśwież"
+
+#~ msgid "Download plugin"
+#~ msgstr "Pobierz wtyczkę"
+
+#~ msgid "Activate plugin"
+#~ msgstr "Włącz wtyczkę"
+
+#~ msgid "Activate key"
+#~ msgstr "Aktywuj licencję"
+
+#~ msgid "Configure"
+#~ msgstr "Skonfiguruj"
+
+#~ msgid "WP Desk Helper"
+#~ msgstr "WP Desk Helper"
+
+#~ msgid "https://www.wpdesk.net/"
+#~ msgstr "https://www.wpdesk.pl/"
+
+#~ msgid "Enables WP Desk plugin activation and updates."
+#~ msgstr "Umożliwia aktywację i aktualizacje wtyczek WP Desk."
+
+#~ msgid "http://www.wpdesk.net/"
+#~ msgstr "https://www.wpdesk.pl/"
+
+#~ msgid "http://www.wpdesk.pl/"
+#~ msgstr "http://www.wpdesk.pl/"
+
+#~ msgid "WP Desk Debug Log is enabled. %sPlease disable it after testing.%s"
+#~ msgstr "WP Desk Debug Log jest włączony. %sWyłącz go po testach.%s"
+
+#, fuzzy
+#~ msgid "Writes error log to file %s."
+#~ msgstr "Zapisuje log błędów do %s."
+
+#~ msgid "WP Desk Plugins"
+#~ msgstr "Wtyczki WP Desk"
+
+#~ msgid "http://www.wpdesk.pl/sklep/wpdesk-helper/"
+#~ msgstr "http://www.wpdesk.pl/sklep/wpdesk-helper/"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
